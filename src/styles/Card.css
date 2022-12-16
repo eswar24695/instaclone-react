@@ -1,0 +1,102 @@
+#dot-cont{
+
+    display:flex;
+}
+.border{
+   
+    position: relative;
+    left: 200%;
+}
+h1 {
+    color:green;
+    text-align:justify;
+    }
+
+#head{
+   
+    display: flex;
+    position: relative;
+    left: 31%;
+   margin-bottom: 2%;
+}
+#cam{
+    position: absolute;
+    top: 37%;
+    left: 43%;
+}
+#loc{
+    padding: 0%;
+}
+.opac{
+    opacity: 0.5;
+}
+#like{
+    font-size: small;
+}
+#dot{
+    position: absolute;
+    top: 4%;
+    left: 90%;
+}
+#date-cont{
+    display: flex;
+    margin-top: 4px;
+    padding-top: 2px;
+  
+}
+#imgd{
+    padding-left: 2%;
+}
+#des{
+    margin-left: 3%;
+    padding-left: 2%;
+}
+#date{
+    position: absolute;
+    left: 85%;
+    top:69%;
+}
+#card{
+    position: relative;
+    display: block;
+   margin-left: 30%;
+    width: 600px;
+    height: 550px;
+    border: 0.5px solid #888888;
+    box-shadow: 2px 2px #888888;
+    padding: 3px;
+    margin-bottom: 20px;
+}
+#img1{
+    margin-top: 10%;
+    margin-left: 10%;
+   
+}
+#home{
+    display: flex;
+    position: relative;
+}
+#green{
+
+    color:green;
+    position: absolute;
+    top:38%;
+    left: 60%;
+    font-size: x-large;
+    font-weight: 500;
+}
+#btn{
+    margin-top: 5%;
+    position: absolute;
+    top:38%;
+    left: 60%;
+    font-size: x-large;
+    font-weight: 500;
+    text-decoration: none;
+    color:green;
+    border: 2px solid green;
+    border-radius: 10%;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+}
